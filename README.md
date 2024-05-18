@@ -1,28 +1,46 @@
-This repository contains the code, data, and documentation for a comprehensive data analysis project focused on optimizing operations for the Bengali Cloud Kitchen. The project leverages SQL, DAX expressions, and data visualization techniques to derive insights from the restaurant's database, enabling data-driven decision-making and continuous improvement.
+# Bengali Cloud Kitchen Data Analysis Project
 
-Contents:
+Welcome to the Bengali Cloud Kitchen Data Analysis Project repository! This project is dedicated to optimizing operations for the Bengali Cloud Kitchen by leveraging advanced data analysis techniques. We employ SQL, DAX expressions, and data visualization to extract valuable insights from the restaurant's database, facilitating data-driven decision-making and continuous improvement.
 
-Data:
-The dataset used for the analysis, which includes information about orders, customers, menu items, inventory, staff, and other operational details.
+## Contents
 
-SQL Scripts:
-A collection of SQL queries used for data extraction, transformation, and analysis.
-Scripts for retrieving key metrics, such as total orders, sales, top-selling items, and customer insights.
-Queries for monitoring inventory levels, ingredient costs, and stock control requirements.
-Scripts for analyzing staff data, including labor costs, shift schedules, and workforce optimization.
+### Data
+This directory contains the dataset used for the analysis. It includes detailed information on:
+- Orders
+- Customers
+- Menu items
+- Inventory
+- Staff
+- Other operational details
 
-DAX Expressions:
-A set of DAX expressions utilized within the Power BI environment for performing complex calculations and deriving additional metrics.
-Expressions for sales analysis, inventory management, and staff data calculations.
+### SQL Scripts
+A collection of SQL queries used for data extraction, transformation, and analysis. The scripts cover:
+- Key metrics retrieval, such as total orders, sales, top-selling items, and customer insights
+- Inventory level monitoring, ingredient costs, and stock control requirements
+- Staff data analysis, including labor costs, shift schedules, and workforce optimization
 
-Power BI Reports:
-The Power BI report files containing interactive dashboards for visualizing and exploring the analyzed data.
-Dashboards for order activity, stock control requirements, and staff data.
+### DAX Expressions
+A set of DAX expressions utilized within the Power BI environment for complex calculations and deriving additional metrics. These expressions focus on:
+- Sales analysis
+- Inventory management
+- Staff data calculations
 
-Documentation:
-A comprehensive report detailing the project's methodology, data exploration, insights, findings, recommendations, and conclusions.
-Entity-Relationship (ER) diagram of the Bengali Cloud Kitchen database, explaining the structure and relationships between different entities.
-Markdown files with code explanations, usage instructions, and any additional information required for understanding and reproducing the analysis.
+### Power BI Reports
+This section includes the Power BI report files, featuring interactive dashboards for visualizing and exploring the analyzed data. Key dashboards include:
+- Order activity
+- Stock control requirements
+- Staff data insights
 
-Auxiliary Files:
-Any supplementary files or resources required for the analysis, such as external data sources, configuration files, or scripts.
+### Documentation
+Comprehensive documentation detailing the project's methodology, data exploration, insights, findings, recommendations, and conclusions. This section includes:
+- A detailed report of the project
+- Entity-Relationship (ER) diagram of the Bengali Cloud Kitchen database, explaining the structure and relationships between different entities
+- Markdown files with code explanations, usage instructions, and any additional information required to understand and reproduce the analysis
+
+### Auxiliary Files
+This directory contains any supplementary files or resources required for the analysis, such as external data sources, configuration files, or additional scripts.
+
+## Project Overview
+
+The Bengali Cloud Kitchen Data Analysis Project aims to provide a robust framework for operational optimization. By analyzing key metrics and visualizing data trends, the project supports strategic decision-making and operational efficiency. The comprehensive approach integrates SQL for data manipulation, DAX for advanced calculations, and Power BI for intuitive data visualization.
+
